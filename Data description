@@ -1,0 +1,32 @@
+Survived: Whether a passenger is survival or not (only available in traning data)
+
+Pclass: Ticket class
+    1	    1st (Upper)
+    2	    2nd (Middle)
+    3	    3rd (Lower)
+
+Name: Passenger’s name
+
+Sex: Passenger’s sex
+
+Age: Passenger’s age (Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5)
+
+SibSp: The number of siblings/ spouses aboard the Titanic, in which
+    Sibling: brother, sister, stepbrother, stepsister
+    Spouse: husband, wife (mistresses and fiancés were ignored)
+
+Parch: The number of parents/ children aboard the Titanic, in which
+    Parent: mother, father
+    Child: daughter, son, stepdaughter, stepson
+    In case that a child travelled only with a nanny, Parch=0.
+
+Ticket: Ticket number
+
+Fare: Passenger fare
+
+Cabin: Cabin number
+
+Embarked: Port of embarkation
+    C     Cherbourg
+    Q 	  Queenstown
+    S 	  Southampton
